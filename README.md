@@ -4,11 +4,11 @@ This project was created by following:
 (https://www.robinwieruch.de/react-testing-library).
 
 **Note: The important files are:**
-[src/.test.js] - (Created by Ashique Desai)
-[src/App.js] - (Modified by Ashique Desai)
-[src/DataFetch.js] - (Component created by Ashique Desai)
-[src/testComponent.js] - (Component created by Ashique Desai)
-[src/math.js] - (Component created by Ashique Desai)
+### [src/.test.js] - (Created by Ashique Desai)
+### [src/App.js] - (Modified by Ashique Desai)
+### [src/DataFetch.js] - (Component created by Ashique Desai)
+### [src/testComponent.js] - (Component created by Ashique Desai)
+### [src/math.js] - (Component created by Ashique Desai)
 
 
 
@@ -88,4 +88,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react-testing-library
+
