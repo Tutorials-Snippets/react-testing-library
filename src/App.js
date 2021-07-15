@@ -1,10 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import TestComponent from './testComponent';
+import DataFetch from './DataFetch'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <TestComponent />
+        <DataFetch />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -18,6 +22,13 @@ function App() {
           Learn React
         </a>
       </header>
+      <form>
+        <label>
+          Name: 
+          <input type="text" name="name" />
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
     </div>
   );
 }

@@ -1,3 +1,23 @@
+# This is a React testing library tutorial
+
+This project was created by following: 
+(https://www.robinwieruch.de/react-testing-library).
+
+**Note: The important files are:**
+[src/.test.js] - (Created by Ashique Desai)
+[src/App.js] - (Modified by Ashique Desai)
+[src/DataFetch.js] - (Component created by Ashique Desai)
+[src/testComponent.js] - (Component created by Ashique Desai)
+[src/math.js] - (Component created by Ashique Desai)
+
+
+
+
+
+
+
+
+<!-- Read me from Create-React-App -->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
